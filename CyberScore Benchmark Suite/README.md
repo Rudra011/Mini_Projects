@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # ⚡ **CyberScore Benchmark Suite**
@@ -122,3 +123,104 @@ Ranks:
 
 ## 📁 Project Structure
 
+```
+
+CyberScore/
+│
+├── cyberscore_benchmark.py   # The entire application (single file)
+└── README.md                  # You are here
+
+````
+
+No additional assets required.
+
+---
+
+## 🔧 Requirements
+
+### **Python**
+- Python **3.7+**
+
+### **Dependencies**
+
+Install:
+
+```bash
+pip install PyQt5
+````
+
+Optional (improves GPU + RAM tests):
+
+```bash
+pip install PyOpenGL numpy
+```
+
+---
+
+## ▶️ Running the Benchmark
+
+```bash
+python cyberscore_benchmark.py
+```
+
+The app will launch a neon-styled UI with:
+
+* **START Benchmark**
+* **ABORT**
+* CPU/GPU/RAM/Disk/Network progress bars
+* Live log window
+* GPU render window
+* Results + animated score reveal
+
+---
+
+## 🖥️ Screens & UI Features
+
+* Neon glowing panels
+* Magenta/cyan cyberpunk palette
+* Animated GPU preview widget
+* Flickering glitch effects
+* Smooth gradient “energy bar” progress bars
+* Final score reveal with pulsing neon animation
+
+---
+
+## 🧱 Architecture
+
+All logic is structured in a single file using:
+
+* `BenchmarkThread` base class
+* Subclasses:
+
+  * `CpuBenchmarkThread`
+  * `RamBenchmarkThread`
+  * `DiskBenchmarkThread`
+  * `NetworkBenchmarkThread`
+* `CyberScoreApp` main window
+* OpenGL or painter-based renderer
+* PyQt5 signals for thread → UI communication
+
+---
+
+## 🛡️ Notes & Safety
+
+* Temporary files cleaned after Disk test
+* Network test handles timeouts gracefully
+* GPU test safely performed on UI thread
+* Supports aborting mid-benchmark
+
+---
+
+## 📜 License
+
+Free to use, modify, and redistribute.
+
+---
+
+<div align="center">
+
+⚡ **“System integrity calibrated. Neon pathways engaged. CyberScore ready.”**
+If you want a logo, installer (EXE), cyberpunk splash art, or a GitHub banner, just ask.
+
+</div>
+```
