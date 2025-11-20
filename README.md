@@ -1,198 +1,96 @@
-\# Mini Projects 🚀  
+<div align="center">
 
-A curated collection of my mini projects—ranging from programming experiments to small creative builds.  
+# 🌙 **Mini Projects**  
+### *A Developer’s Playground of Experiments & Ideas*
 
-These projects document my journey across \*\*C++, Python, Cyber Security, SDL2 game design, WPF tooling, Web development, and more.\*\*
+A curated collection of small-but-impactful projects built as I explore programming, cybersecurity, game development, and creative tools.  
+Every folder is a snapshot of something I learned, tried, broke, fixed, or discovered.
 
-
-
----
-
-
-
-\## 🌟 What This Repo Contains  
-
-This repository includes:
-
-
-
-\- 🔹 \*\*Small coding experiments\*\* in C, C++, Python  
-
-\- 🔹 \*\*Cybersecurity-related utilities\*\* and practice scripts  
-
-\- 🔹 \*\*Game development mini-projects\*\* (SDL2, simple engines, logic prototypes)  
-
-\- 🔹 \*\*Web development snippets\*\* (HTML, CSS, JS, APIs)  
-
-\- 🔹 \*\*Practice tools, utilities, and college mini-projects\*\*  
-
-\- 🔹 \*\*Creative tech experiments\*\* — anything I build while exploring new concepts
-
-
-
-Every folder is self-contained, documented, and easy to explore.
-
-
+</div>
 
 ---
 
+## ✨ **Overview**
 
+This repository contains a variety of self-contained mini projects, covering:
 
-\## 🎯 Purpose  
+### **🖥️ Programming**
+- C, C++, Python utilities  
+- Logic experiments  
+- Algorithms & small tools  
 
-I created this repo to:
+### **🛡️ Cybersecurity**
+- SQL practice  
+- Automation scripts  
+- Security utilities  
 
+### **🎮 Game Development**
+- SDL2 prototypes  
+- Combat/physics logic  
+- Rendering experiments  
 
+### **🌐 Web Development**
+- HTML/CSS/JS components  
+- API testing  
+- UI utilities  
 
-\- Track my progress as I learn new technologies  
-
-\- Share useful reference code with others  
-
-\- Showcase my hands-on skills beyond academics  
-
-\- Build a growing portfolio of technical work  
-
-
+### **🧪 Misc / Creative Projects**
+- WPF & .NET tools  
+- Random weekend builds  
+- UI/UX experiments  
 
 ---
 
+## 🧭 **Why This Repo Exists**
 
+To document my growth as a developer — through small steps, curious experiments, and consistent building.  
+These projects help me:
 
-\## 📁 Structure  
+- Improve my problem-solving  
+- Explore new frameworks & systems  
+- Build technical depth across domains  
+- Maintain a clean, organized portfolio  
 
-Each project has its own folder with:
+---
 
-
-
-\- `source code`  
-
-\- `assets` (if any)  
-
-\- `README` explaining the project  
-
-\- extra files or notes  
-
-&nbsp;
-
-Example structure:
-
-mini-projects/
-
+## 📁 **Repository Structure**
+Mini_Projects/
 │
-
 ├── project-name/
-
 │ ├── src/
-
 │ ├── README.md
-
 │ └── assets/
-
 │
-
-└── another-project/
-
-├── main.cpp
-
-└── README.md
-
+├── another-project/
+│ ├── main.cpp
+│ └── README.md
+│
+└── ...
 
 
-
-
-
+Each project is isolated, documented, and easy to browse.
 
 ---
 
+## 🛠️ **Technologies Across Projects**
 
-
-\## 🧰 Tech Stack  
-
-Here are the languages \& tools you might find throughout the repository:
-
-
-
-\- \*\*C, C++, Python, JavaScript\*\*  
-
-\- \*\*SDL2, WPF (C#), .NET, Web APIs\*\*  
-
-\- \*\*HTML, CSS, React\*\*  
-
-\- \*\*Unity/C++ prototypes\*\*  
-
-\- \*\*Cybersecurity utilities (SQL, scripting, analysis tools)\*\*  
-
-
+- C, C++, Python  
+- JavaScript, HTML, CSS  
+- SDL2  
+- WPF / .NET  
+- Bash scripting  
+- REST APIs  
+- Game logic systems  
 
 ---
 
+<div align="center">
 
+## 🚀 **More Projects Coming Soon**
+I update this repo regularly as I learn, experiment, and build new ideas.
 
-\## 🛠️ How to Use  
+Thanks for stopping by ⭐  
+Feel free to explore, clone, or contribute!
 
-Feel free to:
-
-
-
-\- Explore the code  
-
-\- Clone the repo  
-
-\- Run and modify projects  
-
-\- Use the snippets for learning  
-
-\- Give feedback or suggestions  
-
-
-
-If you find something interesting, drop a ⭐!
-
-
-
----
-
-
-
-\## ✨ Future Additions  
-
-I’ll keep adding:
-
-
-
-\- More game prototypes  
-
-\- Useful utilities  
-
-\- Security practice projects  
-
-\- College mini-assignments  
-
-\- Fun weekend builds  
-
-
-
-Stay tuned!
-
-
-
----
-
-
-
-\## 📬 Contact  
-
-If you want to collaborate, discuss ideas, or have suggestions:  
-
-\*\*Reach me on GitHub or Discord!\*\*
-
-
-
----
-
-
-
-\### Thanks for checking out my work 😄  
-
-
+</div>
 
