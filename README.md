@@ -1,198 +1,80 @@
-\# Mini Projects 🚀  
+Mini Projects
 
-A curated collection of my mini projects—ranging from programming experiments to small creative builds.  
+Welcome to my collection of mini projects, built as part of my learning journey across programming, cybersecurity, game development, and creative software experiments.
 
-These projects document my journey across \*\*C++, Python, Cyber Security, SDL2 game design, WPF tooling, Web development, and more.\*\*
+This repository serves as a public archive of small but meaningful builds—projects I created while exploring new ideas, learning new technologies, or simply experimenting with concepts.
+Each project may be simple, but together they reflect my growth as a developer.
 
+📌 About This Repository
 
+This repo contains projects from areas including:
 
----
+C, C++, and Python programming
 
+Cybersecurity utilities & scripts
 
+SDL2 and game-logic prototypes
 
-\## 🌟 What This Repo Contains  
+Web development (HTML, CSS, JS, APIs)
 
-This repository includes:
+WPF tools, UI utilities, and desktop experiments
 
+Miscellaneous creative or technical mini-projects
 
+Every project is placed in its own folder with a short description so you can explore them easily.
 
-\- 🔹 \*\*Small coding experiments\*\* in C, C++, Python  
+🎯 Why I Made This Repo
 
-\- 🔹 \*\*Cybersecurity-related utilities\*\* and practice scripts  
+To document and track my technical progress
 
-\- 🔹 \*\*Game development mini-projects\*\* (SDL2, simple engines, logic prototypes)  
+To build a portfolio of small projects alongside major ones
 
-\- 🔹 \*\*Web development snippets\*\* (HTML, CSS, JS, APIs)  
+To keep my experiments organized and accessible
 
-\- 🔹 \*\*Practice tools, utilities, and college mini-projects\*\*  
+To share useful code with anyone learning similar technologies
 
-\- 🔹 \*\*Creative tech experiments\*\* — anything I build while exploring new concepts
+📁 Repository Structure
 
+Each project typically includes:
 
+src/ — source code
 
-Every folder is self-contained, documented, and easy to explore.
+README.md — project explanation
 
+assets/ (if required)
 
+Supporting files or notes
 
----
-
-
-
-\## 🎯 Purpose  
-
-I created this repo to:
-
-
-
-\- Track my progress as I learn new technologies  
-
-\- Share useful reference code with others  
-
-\- Showcase my hands-on skills beyond academics  
-
-\- Build a growing portfolio of technical work  
-
-
-
----
-
-
-
-\## 📁 Structure  
-
-Each project has its own folder with:
-
-
-
-\- `source code`  
-
-\- `assets` (if any)  
-
-\- `README` explaining the project  
-
-\- extra files or notes  
-
-&nbsp;
-
-Example structure:
+Example layout:
 
 mini-projects/
-
 │
-
 ├── project-name/
-
-│ ├── src/
-
-│ ├── README.md
-
-│ └── assets/
-
+│   ├── src/
+│   ├── README.md
+│   └── assets/
 │
-
 └── another-project/
+    ├── main.cpp
+    ├── README.md
 
-├── main.cpp
+🧰 Technologies Used Across Projects
 
-└── README.md
+C, C++, Python
 
+JavaScript, HTML, CSS
 
+SDL2
 
+WPF / .NET
 
+APIs
 
+Bash/Scripting
 
+Game logic & prototypes
 
----
+📬 Want to Connect?
 
-
-
-\## 🧰 Tech Stack  
-
-Here are the languages \& tools you might find throughout the repository:
-
-
-
-\- \*\*C, C++, Python, JavaScript\*\*  
-
-\- \*\*SDL2, WPF (C#), .NET, Web APIs\*\*  
-
-\- \*\*HTML, CSS, React\*\*  
-
-\- \*\*Unity/C++ prototypes\*\*  
-
-\- \*\*Cybersecurity utilities (SQL, scripting, analysis tools)\*\*  
-
-
-
----
-
-
-
-\## 🛠️ How to Use  
-
-Feel free to:
-
-
-
-\- Explore the code  
-
-\- Clone the repo  
-
-\- Run and modify projects  
-
-\- Use the snippets for learning  
-
-\- Give feedback or suggestions  
-
-
-
-If you find something interesting, drop a ⭐!
-
-
-
----
-
-
-
-\## ✨ Future Additions  
-
-I’ll keep adding:
-
-
-
-\- More game prototypes  
-
-\- Useful utilities  
-
-\- Security practice projects  
-
-\- College mini-assignments  
-
-\- Fun weekend builds  
-
-
-
-Stay tuned!
-
-
-
----
-
-
-
-\## 📬 Contact  
-
-If you want to collaborate, discuss ideas, or have suggestions:  
-
-\*\*Reach me on GitHub or Discord!\*\*
-
-
-
----
-
-
-
-\### Thanks for checking out my work 😄  
-
-
-
+Feel free to explore the projects, give feedback, or reach out if you have suggestions or ideas.
+I’ll keep updating this repo as I build more projects.
