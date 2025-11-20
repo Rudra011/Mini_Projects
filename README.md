@@ -1,117 +1,96 @@
-🌙 Mini Projects — A Developer’s Playground
+<div align="center">
 
-Welcome to my personal playground of experiments, prototypes, and small-but-impactful builds.
-This repository isn’t just a collection of random files — it’s a timeline of my growth as a developer, showing how I learn, break things, fix things, and create better versions of myself with every project.
+# 🌙 **Mini Projects**  
+### *A Developer’s Playground of Experiments & Ideas*
 
-Whether it’s C/C++ logic experiments, cybersecurity scripts, SDL2 mini games, WPF tools, or quick web dev builds, everything you see here started as a spark of curiosity.
+A curated collection of small-but-impactful projects built as I explore programming, cybersecurity, game development, and creative tools.  
+Every folder is a snapshot of something I learned, tried, broke, fixed, or discovered.
 
-📘 What You'll Find Here
+</div>
 
-A mix of projects across different domains:
+---
 
-🖥️ Programming Projects
+## ✨ **Overview**
 
-Small, focused builds in:
+This repository contains a variety of self-contained mini projects, covering:
 
-C, C++
+### **🖥️ Programming**
+- C, C++, Python utilities  
+- Logic experiments  
+- Algorithms & small tools  
 
-Python
+### **🛡️ Cybersecurity**
+- SQL practice  
+- Automation scripts  
+- Security utilities  
 
-Logic experiments
+### **🎮 Game Development**
+- SDL2 prototypes  
+- Combat/physics logic  
+- Rendering experiments  
 
-Algorithm walkthroughs
+### **🌐 Web Development**
+- HTML/CSS/JS components  
+- API testing  
+- UI utilities  
 
-🛡️ Cybersecurity & Scripting
+### **🧪 Misc / Creative Projects**
+- WPF & .NET tools  
+- Random weekend builds  
+- UI/UX experiments  
 
-SQL practice
+---
 
-Automation scripts
+## 🧭 **Why This Repo Exists**
 
-Security utilities
+To document my growth as a developer — through small steps, curious experiments, and consistent building.  
+These projects help me:
 
-Capture-The-Flag style experiments
+- Improve my problem-solving  
+- Explore new frameworks & systems  
+- Build technical depth across domains  
+- Maintain a clean, organized portfolio  
 
-🎮 Game Development
+---
 
-SDL2 prototypes
-
-Combat logic tests
-
-Mechanics experiments
-
-Mini engines & rendering tests
-
-🌐 Web Development
-
-HTML, CSS, JS snippets
-
-API demos
-
-UI components & utilities
-
-🧪 Creative / Misc Projects
-
-Tools
-
-Small utilities
-
-UI experiments
-
-Random ideas turned into code
-
-🎯 Why This Repo Exists
-
-To document my journey as I explore new technologies, experiment with ideas, and build things purely out of curiosity.
-Not every project here is huge — but every one of them taught me something valuable.
-
-This repo helps me:
-
-Track progress over time
-
-Build a portfolio of diverse technical work
-
-Keep my experiments structured
-
-Share useful code with other learners
-
-📁 Repo Structure
+## 📁 **Repository Structure**
 Mini_Projects/
 │
-├── project-1/
-│   ├── src/
-│   ├── README.md
-│   └── assets/
+├── project-name/
+│ ├── src/
+│ ├── README.md
+│ └── assets/
 │
-├── project-2/
-│   ├── main.cpp
-│   └── README.md
+├── another-project/
+│ ├── main.cpp
+│ └── README.md
 │
 └── ...
 
 
-Every folder is clean, self-contained, and easy to explore.
+Each project is isolated, documented, and easy to browse.
 
-🧰 Tech Stack Across Projects
+---
 
-You’ll find work involving:
+## 🛠️ **Technologies Across Projects**
 
-C, C++, Python
+- C, C++, Python  
+- JavaScript, HTML, CSS  
+- SDL2  
+- WPF / .NET  
+- Bash scripting  
+- REST APIs  
+- Game logic systems  
 
-JavaScript, HTML, CSS
+---
 
-SDL2
+<div align="center">
 
-WPF / .NET
+## 🚀 **More Projects Coming Soon**
+I update this repo regularly as I learn, experiment, and build new ideas.
 
-Bash / Automation
+Thanks for stopping by ⭐  
+Feel free to explore, clone, or contribute!
 
-API integrations
+</div>
 
-Game logic systems
-
-✨ Closing Note
-
-This repo is constantly evolving — just like I am.
-More projects, more experiments, more ideas… all on the way.
-
-If you’re exploring the code, trying it out, or just browsing — thanks for stopping by.
