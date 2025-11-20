@@ -1,64 +1,99 @@
-Mini Projects
+🌙 Mini Projects — A Developer’s Playground
 
-Welcome to my collection of mini projects, built as part of my learning journey across programming, cybersecurity, game development, and creative software experiments.
+Welcome to my personal playground of experiments, prototypes, and small-but-impactful builds.
+This repository isn’t just a collection of random files — it’s a timeline of my growth as a developer, showing how I learn, break things, fix things, and create better versions of myself with every project.
 
-This repository serves as a public archive of small but meaningful builds—projects I created while exploring new ideas, learning new technologies, or simply experimenting with concepts.
-Each project may be simple, but together they reflect my growth as a developer.
+Whether it’s C/C++ logic experiments, cybersecurity scripts, SDL2 mini games, WPF tools, or quick web dev builds, everything you see here started as a spark of curiosity.
 
-📌 About This Repository
+📘 What You'll Find Here
 
-This repo contains projects from areas including:
+A mix of projects across different domains:
 
-C, C++, and Python programming
+🖥️ Programming Projects
 
-Cybersecurity utilities & scripts
+Small, focused builds in:
 
-SDL2 and game-logic prototypes
+C, C++
 
-Web development (HTML, CSS, JS, APIs)
+Python
 
-WPF tools, UI utilities, and desktop experiments
+Logic experiments
 
-Miscellaneous creative or technical mini-projects
+Algorithm walkthroughs
 
-Every project is placed in its own folder with a short description so you can explore them easily.
+🛡️ Cybersecurity & Scripting
 
-🎯 Why I Made This Repo
+SQL practice
 
-To document and track my technical progress
+Automation scripts
 
-To build a portfolio of small projects alongside major ones
+Security utilities
 
-To keep my experiments organized and accessible
+Capture-The-Flag style experiments
 
-To share useful code with anyone learning similar technologies
+🎮 Game Development
 
-📁 Repository Structure
+SDL2 prototypes
 
-Each project typically includes:
+Combat logic tests
 
-src/ — source code
+Mechanics experiments
 
-README.md — project explanation
+Mini engines & rendering tests
 
-assets/ (if required)
+🌐 Web Development
 
-Supporting files or notes
+HTML, CSS, JS snippets
 
-Example layout:
+API demos
 
-mini-projects/
+UI components & utilities
+
+🧪 Creative / Misc Projects
+
+Tools
+
+Small utilities
+
+UI experiments
+
+Random ideas turned into code
+
+🎯 Why This Repo Exists
+
+To document my journey as I explore new technologies, experiment with ideas, and build things purely out of curiosity.
+Not every project here is huge — but every one of them taught me something valuable.
+
+This repo helps me:
+
+Track progress over time
+
+Build a portfolio of diverse technical work
+
+Keep my experiments structured
+
+Share useful code with other learners
+
+📁 Repo Structure
+Mini_Projects/
 │
-├── project-name/
+├── project-1/
 │   ├── src/
 │   ├── README.md
 │   └── assets/
 │
-└── another-project/
-    ├── main.cpp
-    ├── README.md
+├── project-2/
+│   ├── main.cpp
+│   └── README.md
+│
+└── ...
 
-🧰 Technologies Used Across Projects
+
+Every folder is clean, self-contained, and easy to explore.
+
+🧰 Tech Stack Across Projects
+
+You’ll find work involving:
 
 C, C++, Python
 
@@ -68,13 +103,15 @@ SDL2
 
 WPF / .NET
 
-APIs
+Bash / Automation
 
-Bash/Scripting
+API integrations
 
-Game logic & prototypes
+Game logic systems
 
-📬 Want to Connect?
+✨ Closing Note
 
-Feel free to explore the projects, give feedback, or reach out if you have suggestions or ideas.
-I’ll keep updating this repo as I build more projects.
+This repo is constantly evolving — just like I am.
+More projects, more experiments, more ideas… all on the way.
+
+If you’re exploring the code, trying it out, or just browsing — thanks for stopping by.
