@@ -1,0 +1,16 @@
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.AssemblyInfoInputs.cache
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.AssemblyInfo.cs
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.csproj.CoreCompileInputs.cache
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\SyncVerseRGB.exe
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\SyncVerseRGB.deps.json
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\SyncVerseRGB.runtimeconfig.json
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\SyncVerseRGB.dll
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\SyncVerseRGB.pdb
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVers.A81562E5.Up2Date
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.dll
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\refint\SyncVerseRGB.dll
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.pdb
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\SyncVerseRGB.genruntimeconfig.cache
+C:\Users\Rudra\Documents\Programming\Projects\Complete_project one\SyncVerseRGB\obj\Release\net8.0-windows\ref\SyncVerseRGB.dll
