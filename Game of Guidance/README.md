@@ -75,3 +75,31 @@ Enemies counter attacks or deal damage based on:
 
 ## 🧩 **Game Flow**
 
+Main Menu → Story Choice → Enemy Selection → Combat → Victory / Game Over
+
+
+
+**Story choices determine which enemy you face:**
+
+| Choice Path | Result |
+|-------------|--------|
+| Accept you're inside your mind | Fight **Thought Demon** |
+| Believe you're here to fight demons | Fight **Doubt Shadow** |
+| Choose to run from fears | Instant **Game Over** |
+| Face fears | Fight **Fear Entity** |
+
+---
+
+## 🛠️ **Tech Stack**
+
+- **Python 3.x**
+- **Pygame**
+- No external dependencies
+
+---
+
+## 📥 **How to Run**
+
+```bash
+pip install pygame
+python guidnace.py
