@@ -182,7 +182,5 @@ Select Mode → Select Difficulty → Clues Appear → Enter Guess → Score →
 
 <div align="center">
 
-💜 A polished, SYS-themed guessing game with style, performance, and personality.
-If you want a cover banner, icon pack, or splash template — tell me!
 
 </div>
